@@ -26,6 +26,8 @@ function App() {
           1.2-nav 33 작업완료
 
           check1
+          
+          check2
         </a>
       </header>
     </div>
