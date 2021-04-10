@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React 1.1-header 작업완료
+
+          1.1-section 작업완료
         </a>
       </header>
     </div>
