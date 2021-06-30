@@ -25,11 +25,16 @@ function App() {
           test2
 
 <<<<<<< HEAD
+<<<<<<< HEAD
           test4
 =======
 
           test3
 >>>>>>> 866de8d (test3)
+=======
+
+          test3
+>>>>>>> 866de8d6f0c11315ef38766194aea3523031d757
         </a>
       </header>
     </div>
