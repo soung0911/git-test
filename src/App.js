@@ -24,7 +24,12 @@ function App() {
 
           test2
 
+<<<<<<< HEAD
           test4
+=======
+
+          test3
+>>>>>>> 866de8d (test3)
         </a>
       </header>
     </div>
